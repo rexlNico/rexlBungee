@@ -1,0 +1,8 @@
+main: de.rexlNico.Bungee.Main.Main
+version: 1.0
+name: rexlBungee
+author: rexlNico
+
+commands:
+     hub:
+     motd:
